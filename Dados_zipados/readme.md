@@ -1,0 +1,2 @@
+- Extrair o zip de cada pasta, e arrastar os docs para as 
+pastas de cada um em /Data
