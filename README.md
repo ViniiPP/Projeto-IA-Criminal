@@ -14,6 +14,9 @@ Projeto de predição de crimes com base em fatores metereológicos.
 
 ### etapa 4
 - merge dos dados, e 618 dias com dados combinados
+- Se tem crime mas não tem clima → some
+- Se tem clima mas não tem crime → some
+Por isso só deu 618 dias
 
 ### etapa 5
 - leitura dos dados:
