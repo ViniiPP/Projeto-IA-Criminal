@@ -1,3 +1,8 @@
+- Vinícius Pereira Polli
+- Henrique Zanfir
+
+
+
 # Projeto-IA-Criminal
 Projeto de predição de crimes com base em fatores metereológicos.
 
@@ -13,10 +18,10 @@ Projeto de predição de crimes com base em fatores metereológicos.
 - nulos corrigidos, foi colocado uma palavra no local vazio condizente com a situação de cada coluna
 
 ### etapa 4
-- merge dos dados, e 618 dias com dados combinados
+- merge dos dados, e 1612 dias com dados combinados
 - Se tem crime mas não tem clima → some
 - Se tem clima mas não tem crime → some
-Por isso só deu 618 dias
+Por isso só deu 1612 dias
 
 ### etapa 5
 - leitura dos dados:
